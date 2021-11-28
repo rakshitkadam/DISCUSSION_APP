@@ -164,7 +164,6 @@ public class DiscussionsAdapter extends RecyclerView.Adapter<DiscussionsAdapter.
             subjectText = (TextView) view.findViewById(R.id.dis_subject);
             userName = (TextView) view.findViewById(R.id.dis_author);
             timeText = (TextView) view.findViewById(R.id.dis_timestamp);
-//            address = (TextView) view.findViewById(R.id.dis_address);
         }
     }
 
